@@ -27,7 +27,7 @@ Note: IBM Aspera for desktop is a ** NEW ** Aspera Product released in the 1st Q
 
 ## 2. Shutdown IBM Aspera Connect <a name="shutdown"></a>
 
-Open Windows Command Prompt and terminate \"IBM Aspera Connect\". <br>
+Open Windows Command Prompt and terminate \"IBM Aspera Connect\". Most likely this process will NOT be running. <br>
 
 ![alt text](./images/image.png)
 
@@ -35,6 +35,7 @@ Run the below command to shutdown \"IBM Aspera Connect\". <br>
 ```
 taskkill /f /t /im asperaconnect.exe
 ```
+If you, get "ERROR: The process "asperaconnect.exe" not found then please proceed below step #3. <br><br>
 
 
 ## 3. Aspera for desktop  <a name="desktop"></a>
