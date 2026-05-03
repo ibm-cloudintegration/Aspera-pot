@@ -27,18 +27,13 @@ In this lab, you will use IBM Aspera Faspex to package and share files via Email
 Click on the Windows Virtual Machine (VM). <br>
 ![alt text](./images/image-13.png)
 
-Click on CAD (Control Alt Delete) icon, and click \<Ok\>. <br>
-![alt text](./images/image-14.png)
-
-**Login with credentials techzone / IBMDem0s.** <br>
+Login with credentials techzone / IBMDem0s. <br>
 
 Once you login into the Windows VM, open Google Chrome brower, and click on \"Aspera Faspex\" bookmark from the Bookmark Bar. <br>
 
-If uou see "Your connection is not private", then click on \<Advanced\> button, then click "Proceed to 10.0.0.2 (unsafe)". <br>
-
-Logon to Faspex Console with below credentials. <br>
-**user:** ibmcp4ipot@gmail.com <br>
-**password:** WelcometoAspera@2025<br>
+Login with your admin id. <br>
+user: ibmcp4ipot@gmail.com <br>
+password: WelcometoAspera@2025<br>
 
 
 ## 3. Send Files <a name="send"></a>
